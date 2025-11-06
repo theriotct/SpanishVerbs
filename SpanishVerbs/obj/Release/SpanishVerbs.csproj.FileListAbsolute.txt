@@ -1,0 +1,13 @@
+D:\SpanishVerbs\SpanishVerbs\bin\Release\verbs.csv
+D:\SpanishVerbs\SpanishVerbs\bin\Release\SpanishVerbs.exe.config
+D:\SpanishVerbs\SpanishVerbs\bin\Release\SpanishVerbs.exe
+D:\SpanishVerbs\SpanishVerbs\bin\Release\SpanishVerbs.pdb
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.csproj.AssemblyReference.cache
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.SpanishVerbs.resources
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.Properties.Resources.resources
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.Quiz.resources
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.csproj.GenerateResource.cache
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.csproj.CoreCompileInputs.cache
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.exe
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.pdb
+D:\SpanishVerbs\SpanishVerbs\obj\Release\SpanishVerbs.exe.config
